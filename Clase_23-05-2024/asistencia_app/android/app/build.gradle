@@ -1,7 +1,8 @@
 plugins {
-    id "com.android.application"
-    id "kotlin-android"
-    id "dev.flutter.flutter-gradle-plugin"
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'com.google.gms.google-services' // Si estás usando Google services
+    id 'com.google.firebase.crashlytics' // Si estás usando Firebase Crashlytics
 }
 
 def localProperties = new Properties()
@@ -23,9 +24,9 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "pe.edu.upeu.asistencia_app"
-    compileSdkVersion flutter.compileSdkVersion
-    ndkVersion flutter.ndkVersion
+    namespace 'pe.edu.upeu.asistencia_app'
+    compileSdkVersion 31
+    ndkVersion '22.1.7171670'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
@@ -41,12 +42,9 @@ android {
     }
 
     defaultConfig {
-        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "pe.edu.upeu.asistencia_appx"
-        // You can update the following values to match your application needs.
-        // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
-        minSdkVersion flutter.minSdkVersion
-        targetSdkVersion flutter.targetSdkVersion
+        applicationId 'pe.edu.upeu.asistencia_appx'
+        minSdkVersion 21
+        targetSdkVersion 31
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
         multiDexEnabled true
@@ -54,18 +52,15 @@ android {
 
     buildTypes {
         release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig signingConfigs.debug
         }
     }
 }
 
-flutter {
-    source '../..'
+dependencies {
+    implementation 'androidx.multidex:multidex:2.0.1'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
 
-dependencies {
-    def multidex_version = "2.0.1"
-    implementation "androidx.multidex:multidex:$multidex_version"
-}
+apply plugin: 'com.google.gms.google-services' // Si estás usando Google services
+apply plugin: 'com.google.firebase.crashlytics' // Si estás usando Firebase Crashlytics
