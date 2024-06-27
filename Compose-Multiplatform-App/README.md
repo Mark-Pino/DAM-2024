@@ -27,11 +27,15 @@ Esta aplicación está desarrollada con fines de aprendizaje utilizando Kotlin M
 <img src="https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App/blob/main/Screenshot%20iOS.png" data-canonical-src="https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App/blob/main/Screenshot%20iOS.png" width="200" height="400" />
 
 ### Aplicación Web
-- **composeApp:jsBrowserDevelopmentRun**
+```bash
+   composeApp:jsBrowserDevelopmentRun
+   ```
 <img src="https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App/blob/main/Screenshot%20Web.png" data-canonical-src="https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App/blob/main/Screenshot%20Web.png" width="500" height="400" />
 
 ### Escritorio
-- **composeApp:run**
+```bash
+   composeApp:run
+   ```
 <img src="https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App/blob/main/Screenshot%20Desktop%20.png" data-canonical-src="https://github.com/sunildhiman90/Kmp-App-Shared-Ui-Compose-Multiplatform-App/blob/main/Screenshot%20Desktop%20.png" width="500" height="400" />
 
 ## Instrucciones de Configuración
