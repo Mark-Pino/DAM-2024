@@ -1,0 +1,143 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mapboxheatmapjava"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-feature
+11-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:10:5-12:35
+12        android:glEsVersion="0x00030000"
+12-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:11:9-41
+13        android:required="true" />
+13-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:12:9-32
+14    <uses-feature
+14-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:13:5-15:36
+15        android:name="android.hardware.wifi"
+15-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:14:9-45
+16        android:required="false" /> <!-- Implied by ACCESS_WIFI_STATE. -->
+16-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:15:9-33
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:17:5-67
+17-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:17:22-64
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:18:5-79
+18-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:18:22-76
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:19:5-76
+19-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:19:22-73
+20
+21    <permission
+21-->[androidx.core:core:1.9.0] C:\Users\pc\.gradle\caches\transforms-3\c919e84cf21a5073ea88f45ff1a29b85\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+22        android:name="com.example.mapboxheatmapjava.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+22-->[androidx.core:core:1.9.0] C:\Users\pc\.gradle\caches\transforms-3\c919e84cf21a5073ea88f45ff1a29b85\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+23        android:protectionLevel="signature" />
+23-->[androidx.core:core:1.9.0] C:\Users\pc\.gradle\caches\transforms-3\c919e84cf21a5073ea88f45ff1a29b85\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+24
+25    <uses-permission android:name="com.example.mapboxheatmapjava.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+25-->[androidx.core:core:1.9.0] C:\Users\pc\.gradle\caches\transforms-3\c919e84cf21a5073ea88f45ff1a29b85\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+25-->[androidx.core:core:1.9.0] C:\Users\pc\.gradle\caches\transforms-3\c919e84cf21a5073ea88f45ff1a29b85\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+26
+27    <application
+27-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:5:5-24:19
+28        android:allowBackup="true"
+28-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:6:9-35
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.9.0] C:\Users\pc\.gradle\caches\transforms-3\c919e84cf21a5073ea88f45ff1a29b85\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+30        android:dataExtractionRules="@xml/data_extraction_rules"
+30-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:7:9-65
+31        android:debuggable="true"
+32        android:extractNativeLibs="true"
+33        android:fullBackupContent="@xml/backup_rules"
+33-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:8:9-54
+34        android:icon="@mipmap/ic_launcher"
+34-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:9:9-43
+35        android:label="@string/app_name"
+35-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:10:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:11:9-54
+37        android:supportsRtl="true"
+37-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:12:9-35
+38        android:testOnly="true"
+39        android:theme="@style/Theme.MapboxHeatmapJava" >
+39-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:13:9-55
+40        <activity
+40-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:15:9-23:20
+41            android:name="com.example.mapboxheatmapjava.MainActivity"
+41-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:16:13-41
+42            android:exported="true" >
+42-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:17:13-36
+43            <intent-filter>
+43-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:18:13-22:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:19:17-69
+44-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:19:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:21:17-77
+46-->D:\2024 - 1\DAM\Mapbox-Heatmap-Example-Android-main\app\src\main\AndroidManifest.xml:21:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <provider
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pc\.gradle\caches\transforms-3\28b0d3718afd4f3f82d719b2bf3617f4\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+51            android:name="androidx.startup.InitializationProvider"
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pc\.gradle\caches\transforms-3\28b0d3718afd4f3f82d719b2bf3617f4\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+52            android:authorities="com.example.mapboxheatmapjava.androidx-startup"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pc\.gradle\caches\transforms-3\28b0d3718afd4f3f82d719b2bf3617f4\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+53            android:exported="false" >
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pc\.gradle\caches\transforms-3\28b0d3718afd4f3f82d719b2bf3617f4\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+54            <meta-data
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pc\.gradle\caches\transforms-3\28b0d3718afd4f3f82d719b2bf3617f4\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pc\.gradle\caches\transforms-3\28b0d3718afd4f3f82d719b2bf3617f4\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+56                android:value="androidx.startup" />
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\pc\.gradle\caches\transforms-3\28b0d3718afd4f3f82d719b2bf3617f4\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+57            <meta-data
+57-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:27:13-29:52
+58                android:name="com.mapbox.maps.loader.MapboxMapsInitializer"
+58-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:28:17-76
+59                android:value="androidx.startup" /> <!-- This entry makes MapboxSDKCommonInitializer discoverable. -->
+59-->[com.mapbox.maps:android-core:11.4.0] C:\Users\pc\.gradle\caches\transforms-3\6447209713d6db26b4cb8e11b1e8d892\transformed\android-core-11.4.0\AndroidManifest.xml:29:17-49
+60            <meta-data
+60-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:19:13-21:52
+61                android:name="com.mapbox.common.MapboxSDKCommonInitializer"
+61-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:20:17-76
+62                android:value="androidx.startup" />
+62-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:21:17-49
+63            <meta-data
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pc\.gradle\caches\transforms-3\ca7116fbea5f6fb471862e34cf4b3aee\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+64                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pc\.gradle\caches\transforms-3\ca7116fbea5f6fb471862e34cf4b3aee\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+65                android:value="androidx.startup" />
+65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\pc\.gradle\caches\transforms-3\ca7116fbea5f6fb471862e34cf4b3aee\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+66        </provider>
+67
+68        <receiver
+68-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:24:9-31:20
+69            android:name="com.mapbox.common.location.LocationUpdatesReceiver"
+69-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:25:13-78
+70            android:enabled="true"
+70-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:26:13-35
+71            android:exported="false" >
+71-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:27:13-37
+72            <intent-filter>
+72-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:28:13-30:29
+73                <action android:name="com.mapbox.common.location.LocationUpdatesReceiver.ACTION_PROCESS_LOCATION_UPDATES" />
+73-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:29:17-125
+73-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:29:25-122
+74            </intent-filter>
+75        </receiver>
+76
+77        <service
+77-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:33:9-35:40
+78            android:name="com.mapbox.common.LifecycleService"
+78-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:34:13-62
+79            android:exported="false" />
+79-->[com.mapbox.common:common:24.4.0] C:\Users\pc\.gradle\caches\transforms-3\d65c0bb1f7e13d7a0a89bb8ac591cc75\transformed\common-24.4.0\AndroidManifest.xml:35:13-37
+80    </application>
+81
+82</manifest>
