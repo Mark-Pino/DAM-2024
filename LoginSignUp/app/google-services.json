@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893159217050",
+    "project_id": "login-f00f6",
+    "storage_bucket": "login-f00f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893159217050:android:67c62e0b10ccefdf334c23",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu.loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGaCBsMLrKjdaeztH5GwMo1J0jANjEs5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
