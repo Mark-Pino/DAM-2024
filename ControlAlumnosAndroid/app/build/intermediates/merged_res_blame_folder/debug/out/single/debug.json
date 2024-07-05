@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable_popupbackground.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable\\popupbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable_foto02.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable\\foto02.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout-land_activity_main_activity2_modificar_alumno.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout-land\\activity_main_activity2_modificar_alumno.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_popup_inicio.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\popup_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_activity_main_activity2_crear_tutores.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\activity_main_activity2_crear_tutores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout-land_activity_main_activity2_modificar_tutor.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout-land\\activity_main_activity2_modificar_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_popup_tutor.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\popup_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_activity_main_activity2_modificar_tutor.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\activity_main_activity2_modificar_tutor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout-land_activity_main_activity2_crear_alumnos.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout-land\\activity_main_activity2_crear_alumnos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout-land_activity_main_activity2_pasar_lista.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout-land\\activity_main_activity2_pasar_lista.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable_background_naranja.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable\\background_naranja.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_activity_main_activity2_crear_alumnos.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\activity_main_activity2_crear_alumnos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable_cerclebackground_btn.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable\\cerclebackground_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable_foto03.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable\\foto03.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_activity_main_activity2_modificar_alumno.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\activity_main_activity2_modificar_alumno.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable_foto01.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable\\foto01.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_activity_main_activity2_pasar_lista.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\activity_main_activity2_pasar_lista.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout-land_activity_main_activity2_ver_alumnos.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout-land\\activity_main_activity2_ver_alumnos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_activity_main_activity2_ver_alumnos.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\activity_main_activity2_ver_alumnos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable_background.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout-land_activity_main_activity2_crear_tutores.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout-land\\activity_main_activity2_crear_tutores.xml"
+    },
+    {
+        "merged": "com.example.apli.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.apli.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout-land_activity_main_activity2_historial_asistencias.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout-land\\activity_main_activity2_historial_asistencias.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_activity_main_activity2_historial_asistencias.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\activity_main_activity2_historial_asistencias.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Harol\\.gradle\\daemon\\8.0\\com.example.apli.app-main-31:\\drawable\\ic_launcher_background.xml"
+    }
+]
